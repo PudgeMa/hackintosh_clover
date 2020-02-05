@@ -4,5 +4,5 @@
 * WIFI & Bluetooth: BCM 943602CS
 
 ## Issue
-* can't wake computer by keyboard or mouse
+* sometimes can't wake when sleep
 * can't use HDMI interface
